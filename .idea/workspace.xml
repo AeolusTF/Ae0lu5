@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afc3dff6-2e95-4838-8b12-0849d80bcc95" name="Default Changelist" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/test_qt.iml" afterPath="$PROJECT_DIR$/.idea/test_qt.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ae0lu5.py" afterPath="$PROJECT_DIR$/Ae0lu5.py" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,6 +40,7 @@
     <SUITE FILE_PATH="coverage/test_qt$ssh_username1.coverage" NAME="ssh_username1 Coverage Results" MODIFIED="1578241701053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins" />
     <SUITE FILE_PATH="coverage/test_qt$test.coverage" NAME="test Coverage Results" MODIFIED="1578231151695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_qt$CVE20182628.coverage" NAME="CVE20182628 Coverage Results" MODIFIED="1575438317925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins/weblogic" />
+    <SUITE FILE_PATH="coverage/Ae0lu5$.coverage" NAME="未命名 Coverage Results" MODIFIED="1624129594449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/test_qt$struts2.coverage" NAME="struts2 Coverage Results" MODIFIED="1584604421694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins" />
     <SUITE FILE_PATH="coverage/test_qt$1.coverage" NAME="1 Coverage Results" MODIFIED="1575275088411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_qt$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1582622190423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -48,6 +52,7 @@
     <SUITE FILE_PATH="coverage/test_qt$main.coverage" NAME="main Coverage Results" MODIFIED="1575427216310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WeblogicScan/app" />
     <SUITE FILE_PATH="coverage/test_qt$apache_rce.coverage" NAME="apache_rce Coverage Results" MODIFIED="1579068060206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins" />
     <SUITE FILE_PATH="coverage/test_qt$pyshodan.coverage" NAME="pyshodan Coverage Results" MODIFIED="1577776037835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins" />
+    <SUITE FILE_PATH="coverage/Ae0lu5$Ae0lu5.coverage" NAME="Ae0lu5 Coverage Results" MODIFIED="1624134290867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -61,8 +66,8 @@
       <file leaf-file-name="Ae0lu5.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Ae0lu5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.21880065">
-              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.41558442">
+              <caret line="1020" column="61" selection-start-line="1020" selection-start-column="61" selection-end-line="1020" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -71,7 +76,7 @@
       <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plugins/XSStrike/core/config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.96428573">
+            <state vertical-scroll-proportion="0.0">
               <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
               <folding />
             </state>
@@ -143,6 +148,9 @@
               <caret line="34" column="103" selection-start-line="34" selection-start-column="103" selection-end-line="34" selection-end-column="103" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
+                <marker date="1624104280401" expanded="true" signature="495:851" placeholder="..." />
+                <marker date="1624104280401" expanded="true" signature="576:591" placeholder="..." />
+                <marker date="1624104280401" expanded="true" signature="896:909" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -151,10 +159,22 @@
       <file leaf-file-name="unauthorized.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plugins/unauthorized.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="228" column="0" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
+            <state vertical-scroll-proportion="81.75">
+              <caret line="230" column="47" selection-start-line="230" selection-start-column="47" selection-end-line="230" selection-end-column="47" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
+                <marker date="1624104280402" expanded="true" signature="552:2514" placeholder="..." />
+                <marker date="1624104280402" expanded="true" signature="1055:1059" placeholder="..." />
+                <marker date="1624104280402" expanded="true" signature="2571:2583" placeholder="..." />
+                <marker date="1624104280402" expanded="true" signature="3030:3045" placeholder="..." />
+                <marker date="1624104280402" expanded="true" signature="3497:3509" placeholder="..." />
+                <marker date="1624104280402" expanded="true" signature="7718:7730" placeholder="..." />
+                <marker date="1624104280402" expanded="true" signature="8888:8900" placeholder="..." />
+                <marker date="1624104280402" expanded="true" signature="10074:10088" placeholder="..." />
+                <marker date="1624104280402" expanded="true" signature="10663:10685" placeholder="..." />
+                <marker date="1624104280402" expanded="true" signature="11282:11304" placeholder="..." />
+                <marker date="1624104280402" expanded="true" signature="13830:13856" placeholder="..." />
+                <marker date="1624104280402" expanded="true" signature="14622:14648" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -167,6 +187,8 @@
               <caret line="137" column="21" selection-start-line="137" selection-start-column="16" selection-end-line="137" selection-end-column="21" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
+                <marker date="1624104280400" expanded="true" signature="167:47577" placeholder="..." />
+                <marker date="1624104280400" expanded="true" signature="35754:35757" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -220,7 +242,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/plugins/XSStrike/core/utils.py" />
         <option value="$PROJECT_DIR$/plugins/XSStrike/core/wafDetector.py" />
         <option value="$PROJECT_DIR$/plugins/XSStrike/core/photon.py" />
         <option value="$PROJECT_DIR$/plugins/XSStrike/modes/crawl.py" />
@@ -271,6 +292,7 @@
         <option value="$PROJECT_DIR$/plugins/weblogic_exe.py" />
         <option value="$PROJECT_DIR$/plugins/weblogic/CVE202014882.py" />
         <option value="$PROJECT_DIR$/Gr33k.py" />
+        <option value="$PROJECT_DIR$/Ae0lu5.py" />
       </list>
     </option>
   </component>
@@ -280,10 +302,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="119" />
+    <option name="y" value="57" />
+    <option name="width" value="1081" />
+    <option name="height" value="604" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -338,9 +360,9 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.7_qbz5n2kfra8p0/python3.exe" />
+    <property name="last_opened_file_path" value="D:/python39/python3.exe" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -377,7 +399,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Ae0lu5">
+    <configuration default="false" name="Ae0lu5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test_qt" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ae0lu5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -571,6 +611,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.Ae0lu5" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.Ae0lu5" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -741,19 +789,19 @@
     <option name="totallyTimeSpent" value="286733000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
-    <editor active="true" />
+    <frame x="119" y="57" width="1081" height="604" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24183977" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31669536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31008902" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5728745" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299817" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -832,6 +880,9 @@
           <caret line="34" column="103" selection-start-line="34" selection-start-column="103" selection-end-line="34" selection-end-column="103" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
+            <marker date="1624104280401" expanded="true" signature="495:851" placeholder="..." />
+            <marker date="1624104280401" expanded="true" signature="576:591" placeholder="..." />
+            <marker date="1624104280401" expanded="true" signature="896:909" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -842,6 +893,18 @@
           <caret line="228" column="0" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
+            <marker date="1624104280402" expanded="true" signature="552:2514" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="1055:1059" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="2571:2583" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="3030:3045" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="3497:3509" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="7718:7730" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="8888:8900" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="10074:10088" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="10663:10685" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="11282:11304" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="13830:13856" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="14622:14648" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -859,6 +922,8 @@
           <caret line="137" column="21" selection-start-line="137" selection-start-column="16" selection-end-line="137" selection-end-column="21" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
+            <marker date="1624104280400" expanded="true" signature="167:47577" placeholder="..." />
+            <marker date="1624104280400" expanded="true" signature="35754:35757" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -909,6 +974,9 @@
           <caret line="34" column="103" selection-start-line="34" selection-start-column="103" selection-end-line="34" selection-end-column="103" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
+            <marker date="1624104280401" expanded="true" signature="495:851" placeholder="..." />
+            <marker date="1624104280401" expanded="true" signature="576:591" placeholder="..." />
+            <marker date="1624104280401" expanded="true" signature="896:909" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -919,6 +987,18 @@
           <caret line="228" column="0" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
+            <marker date="1624104280402" expanded="true" signature="552:2514" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="1055:1059" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="2571:2583" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="3030:3045" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="3497:3509" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="7718:7730" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="8888:8900" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="10074:10088" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="10663:10685" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="11282:11304" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="13830:13856" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="14622:14648" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -936,6 +1016,8 @@
           <caret line="137" column="21" selection-start-line="137" selection-start-column="16" selection-end-line="137" selection-end-column="21" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
+            <marker date="1624104280400" expanded="true" signature="167:47577" placeholder="..." />
+            <marker date="1624104280400" expanded="true" signature="35754:35757" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1122,16 +1204,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/struts2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="137" column="21" selection-start-line="137" selection-start-column="16" selection-end-line="137" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/weblogic/CVE201710271.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1148,16 +1220,9 @@
           <caret line="34" column="103" selection-start-line="34" selection-start-column="103" selection-end-line="34" selection-end-column="103" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/unauthorized.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="228" column="0" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <marker date="1624104280401" expanded="true" signature="495:851" placeholder="..." />
+            <marker date="1624104280401" expanded="true" signature="576:591" placeholder="..." />
+            <marker date="1624104280401" expanded="true" signature="896:909" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1202,16 +1267,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/plugins/XSStrike/core/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.96428573">
+        <state vertical-scroll-proportion="0.0">
           <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/unauthorized.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="81.75">
+          <caret line="230" column="47" selection-start-line="230" selection-start-column="47" selection-end-line="230" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <marker date="1624104280402" expanded="true" signature="552:2514" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="1055:1059" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="2571:2583" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="3030:3045" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="3497:3509" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="7718:7730" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="8888:8900" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="10074:10088" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="10663:10685" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="11282:11304" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="13830:13856" placeholder="..." />
+            <marker date="1624104280402" expanded="true" signature="14622:14648" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/struts2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="137" column="21" selection-start-line="137" selection-start-column="16" selection-end-line="137" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+            <marker date="1624104280400" expanded="true" signature="167:47577" placeholder="..." />
+            <marker date="1624104280400" expanded="true" signature="35754:35757" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Ae0lu5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.21880065">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.41558442">
+          <caret line="1020" column="61" selection-start-line="1020" selection-start-column="61" selection-end-line="1020" selection-end-column="61" />
           <folding />
         </state>
       </provider>

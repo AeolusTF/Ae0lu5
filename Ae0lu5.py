@@ -1018,7 +1018,7 @@ class MyWindow(QMainWindow, Ui_MainWindow):
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     myWin = MyWindow()
-    myWin.setWindowTitle("漏洞利用工具集 Ae0lu5 仅供技术交流 若用于非法途径，概不负责")
+    myWin.setWindowTitle("漏洞利用工具集 Ae0lu5 仅供技术交流 若用于非法途径，概不负责 aeolus.ccaeo.com")
     myWin.setWindowIcon(QIcon('icon/title.png'))
     myWin.show()
     sys.exit(app.exec_())
